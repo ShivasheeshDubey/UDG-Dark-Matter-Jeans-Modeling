@@ -1,0 +1,6 @@
+galaxy,beta,stellar_mass_msun,sigma_los_at_1_kpc_kms,note
+DF2,0.0,254691149.19611126,8.360068197975485,"stellar-only, isotropic"
+DF4,0.0,58578964.315078564,5.1972062545377025,"stellar-only, isotropic"
+DF44,0.0,233000127.7577344,5.471141280132996,"stellar-only, Upsilon*=1"
+DF44,-0.6,233000127.7577344,4.476172412002747,"stellar-only, Upsilon*=1"
+DF44,0.6,233000127.7577344,7.230419829511516,"formal Jeans-only, fails central cusp-anisotropy condition"
